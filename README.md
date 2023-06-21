@@ -1,4 +1,5 @@
 # Väderdata-plugin för wordpress
+Skoluppgift
 
 Väderdata 
  * Ett plugin som hämtar väderdata för vald plats, som presenteras med lämpliga bilder och färger.
